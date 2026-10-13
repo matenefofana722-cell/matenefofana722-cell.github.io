@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.blastshooter.game",
-    "sha256_cert_fingerprints": ["CA:99:8B:5C:B0:1D:89:D5:6B:01:0D:FD:C4:2A:66:64:2B:7A:9B:6B:24:92:E5:42:8B:4C:3C:5B:DC:8B:33"]
-  }
-}]
